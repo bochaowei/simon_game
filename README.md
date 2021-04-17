@@ -1,3 +1,3 @@
 # simon_game
 A simple simon game to test your memory ability.
-Run
+run 'Run_this.py' to play
