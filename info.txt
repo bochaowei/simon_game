@@ -1,0 +1,3 @@
+please run 'Run_this.py' in python.
+
+In the results of the Game, 0 means soccer, 1 means football, 2 means compass, 3 means darth varder
